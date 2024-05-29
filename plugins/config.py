@@ -11,7 +11,7 @@ logging.basicConfig(
 
 class Config(object):
     
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", "6172707669:AAGK0Iu1ONYAi6ZkMCDGtacMe-FhSWx7cE4")
+    BOT_TOKEN = os.environ.get("BOT_TOKEN", "7472054378:AAEhZJFC3khHDBEZ25JK4AqM7_HWLjW9FkA")
     
     API_ID = int(os.environ.get("API_ID", "24602438"))
     
@@ -53,5 +53,5 @@ class Config(object):
     
     TG_MIN_FILE_SIZE = 2097152000
     
-    BOT_USERNAME = os.environ.get("BOT_USERNAME", "Bot7x_bot")
+    BOT_USERNAME = os.environ.get("BOT_USERNAME", "@URLX8BOT")
                                   
